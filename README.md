@@ -1,2 +1,2 @@
 # lnhs-docs
-Documentation for lnhs-cms
+Documentation for lnhs-cms. Refer to wiki for details
